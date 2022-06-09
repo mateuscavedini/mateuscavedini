@@ -1,8 +1,12 @@
 ## Olá! Eu sou o Mateus Cavedini!
 <div align="center">
-  <a href="https://github.com/mateuscavedini">
+<!--   <a href="https://github.com/mateuscavedini">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateuscavedini&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscavedini&layout=compact&langs_count=7&theme=rose_pine"/>
+  </a> -->
+  <a href="https://github.com/mateuscavedini">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateuscavedini&show_icons=true&include_all_commits=true&count_private=true&title_color=ff7edb&icon_color=fede5d&text_color=36f9f6&bg_color=2b213a"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscavedini&layout=compact&langs_count=7&title_color=ff7edb&icon_color=fede5d&text_color=36f9f6&bg_color=2b213a"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
