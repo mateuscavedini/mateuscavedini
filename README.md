@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Mateus Cavedini!
-<div align="center">
+<div>
   <a href="github.com/mateuscavedini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateuscavedini&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscavedini&layout=compact&langs_count=7&theme=rose_pine&card-width=-1"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mateuscavedini&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscavedini&layout=compact&langs_count=7&theme=rose_pine&card-width=-1"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
