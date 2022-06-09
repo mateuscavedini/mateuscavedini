@@ -1,6 +1,10 @@
 ## Olá! Eu sou o Mateus Cavedini!
-| <a href="https://github.com/mateuscavedini"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mateuscavedini&show_icons=true&include_all_commits=true&count_private=true&theme=rose_pine"></a> | <a href="https://github.com/mateuscavedini"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscavedini&theme=rose_pine&layout=compact"></a> |
-| ------------- | ------------- |
+<div align="center">
+  <a href="https://github.com/mateuscavedini">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=mateuscavedini&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscavedini&layout=compact&langs_count=7&theme=rose_pine"/>
+  </a>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
