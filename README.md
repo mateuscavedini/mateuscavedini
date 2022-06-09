@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Mateus Cavedini!
-<div>
+<div align="center">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mateuscavedini&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscavedini&layout=compact&langs_count=7&theme=radical"/>
 </div>
